@@ -1,0 +1,4 @@
+C:\Users\chris\Documents\csharpp\DependencyInjectionLearning\DependencyInjectionLearning\obj\Debug\net6.0\DependencyInjectionLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\csharpp\DependencyInjectionLearning\DependencyInjectionLearning\obj\Debug\net6.0\DependencyInjectionLearning.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\csharpp\DependencyInjectionLearning\DependencyInjectionLearning\obj\Debug\net6.0\DependencyInjectionLearning.AssemblyInfo.cs
+C:\Users\chris\Documents\csharpp\DependencyInjectionLearning\DependencyInjectionLearning\obj\Debug\net6.0\DependencyInjectionLearning.csproj.CoreCompileInputs.cache
